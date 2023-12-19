@@ -1,0 +1,23 @@
+************* Module Final_Code
+Final_Code.py:35:0: C0303: Trailing whitespace (trailing-whitespace)
+Final_Code.py:46:0: C0303: Trailing whitespace (trailing-whitespace)
+Final_Code.py:64:17: C0303: Trailing whitespace (trailing-whitespace)
+Final_Code.py:93:0: C0301: Line too long (107/100) (line-too-long)
+Final_Code.py:133:0: C0304: Final newline missing (missing-final-newline)
+Final_Code.py:1:0: C0103: Module name "Final_Code" doesn't conform to snake_case naming style (invalid-name)
+Final_Code.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+Final_Code.py:22:32: C0103: Variable name "f" doesn't conform to snake_case naming style (invalid-name)
+Final_Code.py:41:4: C0103: Variable name "MC_list" doesn't conform to snake_case naming style (invalid-name)
+Final_Code.py:47:4: C0103: Variable name "df" doesn't conform to snake_case naming style (invalid-name)
+Final_Code.py:50:0: C0103: Argument name "df" doesn't conform to snake_case naming style (invalid-name)
+Final_Code.py:71:0: C0103: Argument name "df" doesn't conform to snake_case naming style (invalid-name)
+Final_Code.py:76:0: C0103: Argument name "df" doesn't conform to snake_case naming style (invalid-name)
+Final_Code.py:76:19: W0621: Redefining name 'sql_connection' from outer scope (line 111) (redefined-outer-name)
+Final_Code.py:81:14: W0621: Redefining name 'query_statement' from outer scope (line 118) (redefined-outer-name)
+Final_Code.py:81:31: W0621: Redefining name 'sql_connection' from outer scope (line 111) (redefined-outer-name)
+Final_Code.py:87:0: W0105: String statement has no effect (pointless-string-statement)
+Final_Code.py:6:0: C0411: standard import "import sqlite3" should be placed before "import requests" (wrong-import-order)
+Final_Code.py:8:0: C0411: standard import "from datetime import datetime" should be placed before "import requests" (wrong-import-order)
+
+-----------------------------------
+Your code has been rated at 7.29/10
